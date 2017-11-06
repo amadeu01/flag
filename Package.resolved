@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Atlas",
+        "repositoryURL": "/Users/amadeucavalcantefilho/Desktop/Work/Atlas",
+        "state": {
+          "branch": null,
+          "revision": "63d8490a3e49b85987dc1f2cdaadfe91bc3a798b",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

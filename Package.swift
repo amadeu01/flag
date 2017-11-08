@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Flag",
     dependencies: [
-        .package(url: "../Atlas", from: "0.0.1"),
+        .package(url: "https://github.com/amadeu01/atlas", from: "0.0.1"),
     ],
     targets: [
         .target(
